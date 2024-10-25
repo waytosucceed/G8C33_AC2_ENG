@@ -1,0 +1,375 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Convert the following present continuous affirmative sentence to past continuous affirmative sentence: 'She is explaining the complex theory in detail.'",
+        "options": [
+            "She was explaining the complex theory in detail.",
+            "She had been explaining the complex theory in detail.",
+            "She explained the complex theory in detail.",
+            "She will be explaining the complex theory in detail."
+        ],
+        "correct": 0,
+        "explanation": "The present continuous tense 'is explaining' is converted to 'was explaining' in the past continuous tense. The structure of the past continuous is was/were + present participle (verb + 'ing')."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Convert the following present continuous affirmative sentence to past continuous affirmative sentence: 'They are revising the report for accuracy.'",
+        "options": [
+            "They have revised the report for accuracy.",
+            "They had been revising the report for accuracy.",
+            "They were revising the report for accuracy.",
+            "They will revise the report for accuracy."
+        ],
+        "correct": 2,
+        "explanation": "The verb 'are revising' is in the present continuous tense, which changes to 'were revising' in the past continuous tense to indicate an action happening over time in the past."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Convert the following present continuous affirmative sentence to past continuous affirmative sentence: 'The team is conducting research on artificial intelligence.'",
+        "options": [
+            "The team had been conducting research on artificial intelligence.",
+            "The team was conducting research on artificial intelligence.",
+            "The team conducts research on artificial intelligence.",
+            "The team will have been conducting research on artificial intelligence."
+        ],
+        "correct": 1,
+        "explanation": "'Is conducting' in the present continuous becomes 'was conducting' in the past continuous to show the team was in the process of research at a specific time in the past."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Convert the present continuous affirmative sentence 'She is arranging the documents for the meeting.' to a past continuous interrogative sentence.",
+        "options": [
+            "Was she arranging the documents for the meeting?",
+            "Were she arranging the documents for the meeting?",
+            "Has she arranged the documents for the meeting?",
+            "Had she arranged the documents for the meeting?"
+        ],
+        "correct": 0,
+        "explanation": "The present continuous affirmative sentence uses 'is,' which should be changed to 'was' to indicate the past tense for the singular subject 'she.' The verb 'arranging' remains in the continuous form to signify an ongoing action in the past. The correct answer is 'Was she arranging the documents for the meeting?'"
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Convert the sentence 'The children are drawing pictures in the art class.' to a past continuous interrogative sentence.",
+        "options": [
+            "Were the children drawing pictures in the art class?",
+            "Was the children drawing pictures in the art class?",
+            "Were the children drew pictures in the art class?",
+            "Did the children draw pictures in the art class?"
+        ],
+        "correct": 0,
+        "explanation": "In the conversion to a past continuous interrogative, the auxiliary 'are' changes to 'were' to match the plural subject 'children.' The verb 'drawing' remains in the '-ing' form to maintain the continuous tense. Therefore, 'Were the children drawing pictures in the art class?' is the correct formation."
+    },
+      
+        {
+            "questionNo": "Q6.",
+            "question": "Spot the error in the sentence: 'He was go to the store when it started raining.'",
+            "options": [
+                "No error",
+                "'was go' should be 'was going'",
+                "'started raining' should be 'was starting raining'",
+                "'go to the store' should be 'went to the store'"
+            ],
+            "correct": 1,
+            "explanation": "In the past continuous tense, the structure is 'was/were + present participle (verb + 'ing').' The error is in the use of 'was go' instead of 'was going.' 'Go' is the base form, but the past continuous requires 'going.'"
+        },
+        {
+            "questionNo": "Q7.",
+            "question": "Spot the error in the sentence: 'They are played soccer when I arrived.'",
+            "options": [
+                "'are played' should be 'are playing'",
+                "'are played' should be 'were playing'",
+                "'arrived' should be 'was arriving'",
+                "No error"
+            ],
+            "correct": 1,
+            "explanation": "The sentence describes two actions happening simultaneously in the past. Therefore, the correct tense is the past continuous, not the present continuous or the simple past. The correct form is 'were playing' because we are referring to an ongoing action that was happening at a specific time in the past (when the speaker arrived)."
+        },
+        {
+            "questionNo": "Q8.",
+            "question": "Spot the error in the sentence: 'She is watching TV while her brother prepared dinner.'",
+            "options": [
+                "'is watching' should be 'was watching'",
+                "'prepared' should be 'was preparing'",
+                "'prepared' should be 'prepares'",
+                "No error"
+            ],
+            "correct": 1,
+            "explanation": "This sentence mixes tenses incorrectly. The action of watching TV is in the present continuous, but the action of preparing dinner is in the simple past ('prepared'). Both actions should match in tense."
+        },
+        {
+            "questionNo": "Q9.",
+            "question": "Fill in the blank: Right now, the team ______ (discuss) the new marketing strategy in the conference room.",
+            "options": [
+                "is discussing",
+                "are discussing",
+                "was discussing",
+                "discusses"
+            ],
+            "correct": 0,
+            "explanation": "The subject 'the team' is treated as singular in this context, so we use 'is' and the verb with '-ing.'"
+        },
+        {
+            "questionNo": "Q10.",
+            "question": "Fill in the blank: Look! The birds ______ (fly) south for the winter.",
+            "options": [
+                "flies",
+                "are flying",
+                "is flying",
+                "were flying"
+            ],
+            "correct": 1,
+            "explanation": "'Birds' is a plural subject, so 'are' is the correct auxiliary verb."
+        },
+        {
+            "questionNo": "Q11.",
+            "question": "Fill in the blank: While you ______ (work) on that report, I’ll finish the presentation.",
+            "options": [
+                "is working",
+                "was working",
+                "are working",
+                "works"
+            ],
+            "correct": 2,
+            "explanation": "The subject 'you' requires 'are' in the present continuous tense."
+        },
+        {
+            "questionNo": "Q12.",
+            "question": "Fill in the blank: Why ______ (you/wear) a jacket? It’s warm outside.",
+            "options": [
+                "are you wearing",
+                "is you wearing",
+                "are you wear",
+                "was you wearing"
+            ],
+            "correct": 0,
+            "explanation": "In a question form with 'you,' the correct structure is 'are you' + verb with '-ing.'"
+        },
+        {
+            "questionNo": "Q13.",
+            "question": "Fill in the blank: The chef ______ (experiment) with new recipes to add to the menu these days.",
+            "options": [
+                "was experimenting",
+                "is experimenting",
+                "are experimenting",
+                "experiments"
+            ],
+            "correct": 1,
+            "explanation": "'The chef' is singular, so we use 'is' followed by the verb in '-ing' form."
+        },
+        {
+            "questionNo": "14.",
+            "question": "Fill in the blank: They ______ (develop) a new software that could revolutionise the tech industry, but it’s still in its early stages.",
+            "options": [
+                "are developing",
+                "is developing",
+                "develop",
+                "was developing"
+            ],
+            "correct": 0,
+            "explanation": "The action of developing the software is ongoing, so the present continuous tense is appropriate."
+        },
+        {
+            "questionNo": "Q15.",
+            "question": "Fill in the blank: While she ______ (attend) the conference, her team back at the office is managing all the projects.",
+            "options": [
+                "was attending",
+                "is attending",
+                "attends",
+                "has attended"
+            ],
+            "correct": 1,
+            "explanation": "The present continuous tense is used to describe simultaneous actions happening at the current time."
+        },
+        {
+            "questionNo": "Q16.",
+            "question": "Fill in the blank: While they ______ (discuss) the proposal yesterday, a sudden power outage occurred.",
+            "options": [
+                "were discussing",
+                "was discussing",
+                "had discussed",
+                "are discussing"
+            ],
+            "correct": 0,
+            "explanation": "The past continuous tense is used to describe an action that was in progress at a specific time in the past."
+        },
+        {
+            "questionNo": "Q17.",
+            "question": "Fill in the blank: I ______ (read) the book when the fire alarm rang.",
+            "options": [
+                "had read",
+                "was reading",
+                "am reading",
+                "were reading"
+            ],
+            "correct": 1,
+            "explanation": "The past continuous describes an action that was ongoing when another event interrupted it."
+        },
+        {
+            "questionNo": "Q18.",
+            "question": "Fill in the blank: As the storm ______ (approach), the villagers hurried to seek shelter.",
+            "options": [
+                "was approaching",
+                "were approaching",
+                "approached",
+                "had approached"
+            ],
+            "correct": 0,
+            "explanation": "The past continuous tense is used to describe an ongoing action in the past."
+        },
+        {
+            "questionNo": "Q19.",
+            "question": "Fill in the blank: ________ you __________ (not / watch) the movie right now?",
+            "options": [
+                "Are / not watching",
+                "Do / not watch",
+                "Were / not watching",
+                "Will / not watch"
+            ],
+            "correct": 0,
+            "explanation": "The present continuous tense for interrogative negative sentences uses 'are' + subject + 'not' + present participle."
+        },
+        {
+            "questionNo": "Q20.",
+            "question": "Why __________ you __________ (not / prepare) the report last night?",
+            "options": [
+                "were / not preparing",
+                "were / not prepared",
+                "did / not prepare",
+                "had / not prepared"
+            ],
+            "correct": 0,
+            "explanation": "In the past continuous tense, 'were' + subject + 'not' + present participle is used to ask about ongoing actions that were not happening at a specific time in the past."
+        },
+        {
+            "questionNo": "Q21.",
+            "question": "Identify the tense used in the sentence: She is working on the project right now.",
+            "options": [
+                "Simple present tense",
+                "Present continuous tense",
+                "Past continuous tense",
+                "Present perfect tense"
+            ],
+            "correct": 1,
+            "explanation": "The sentence describes an action that is happening at the moment of speaking. The structure 'is working' (am/is/are + verb + ing) indicates the present continuous tense, which is used for actions occurring now or around the present time."
+        },
+        {
+            "questionNo": "Q22.",
+            "question": "Identify the tense used in the sentence: They were discussing the new strategy during the meeting.",
+            "options": [
+                "Present continuous tense",
+                "Simple past tense",
+                "Past continuous tense",
+                "Present perfect continuous tense"
+            ],
+            "correct": 2,
+            "explanation": "The sentence uses 'were discussing,' which follows the structure of the past continuous tense: was/were + verb + ing. This tense is used for actions that were ongoing at a specific time in the past."
+        },
+        {
+            "questionNo": "Q23.",
+            "question": "Identify the tense used in the sentence: I am reading an interesting book these days.",
+            "options": [
+                "Present continuous tense",
+                "Simple present tense",
+                "Past continuous tense",
+                "Future continuous tense"
+            ],
+            "correct": 0,
+            "explanation": "The phrase 'am reading' (am/is/are + verb + ing) clearly shows the present continuous tense, which is used to describe actions happening right now or around the current time, even if not at the exact moment of speaking."
+        },
+        {
+            "questionNo": "Q24.",
+            "question": "Identify the tense used in the sentence: She was writing the report when the power went out.",
+            "options": [
+                "Present continuous tense",
+                "Simple past tense",
+                "Past continuous tense",
+                "Present perfect tense"
+            ],
+            "correct": 2,
+            "explanation": "The use of 'was writing' follows the pattern of the past continuous tense (was/were + verb + ing), which is used to describe an action that was ongoing at a specific time in the past, interrupted by another event (in this case, the power going out)."
+        },
+        {
+            "questionNo": "Q25.",
+            "question": "Right now, she ________ (prepare) for the final exam.",
+            "options": [
+                "was preparing",
+                "is preparing",
+                "will be preparing",
+                "prepares"
+            ],
+            "correct": 1,
+            "explanation": "The sentence indicates an action happening right now, which requires the present continuous tense (am/is/are + verb + ing). Therefore, 'is preparing' is the correct form. 'Was preparing' would indicate the past continuous, and 'prepares' is the simple present tense, which doesn’t fit the context."
+        },
+        {
+            "questionNo": "Q26.",
+            "question": "They ________ (discuss) the project when the meeting was interrupted.",
+            "options": [
+                "are discussing",
+                "were discussing",
+                "was discussing",
+                "discuss"
+            ],
+            "correct": 1,
+            "explanation": "The action happened in the past and was ongoing when it was interrupted, which requires the past continuous tense (was/were + verb + ing). The correct form is 'were discussing' because 'they' is plural, and it refers to an event that was taking place when something else happened."
+        },
+        {
+            "questionNo": "Q27.",
+            "question": "While we ________ (walk) home, it started raining.",
+            "options": [
+                "were walking",
+                "are walking",
+                "walked",
+                "have walked"
+            ],
+            "correct": 0,
+            "explanation": "The sentence describes an action that was ongoing in the past (walking home) and was interrupted by another event (it started raining). Therefore, the past continuous tense (was/were + verb + ing) is appropriate, and the correct form is 'were walking.'"
+        },
+        {
+            "questionNo": "Q28.",
+            "question": "I ________ (wait) for the bus when you called.",
+            "options": [
+                "was waiting",
+                "am waiting",
+                "waited",
+                "had waited"
+            ],
+            "correct": 0,
+            "explanation": "The sentence describes an action in the past (waiting for the bus) that was interrupted by another past action (you called). The past continuous tense (was/were + verb + ing) is required, so 'was waiting' is correct."
+        },
+        {
+            "questionNo": "Q29.",
+            "question": "They ________ (travel) through Europe when I last heard from them.",
+            "options": [
+                "are travelling",
+                "travelled",
+                "were travelling",
+                "have travelled"
+            ],
+            "correct": 2,
+            "explanation": "The sentence refers to an ongoing action in the past that coincided with another event (when I last heard from them). The past continuous tense (was/were + verb + ing) is required, so 'were travelling' is correct."
+        },
+        {
+            "questionNo": "Q30.",
+            "question": "She __________ (not / attend) the meeting today because she is sick.",
+            "options": [
+                "is not attending",
+                "does not attend",
+                "was not attending",
+                "has not attended"
+            ],
+            "correct": 0,
+            "explanation": "In present continuous negative sentences, use 'is not' + present participle (verb+ing) to indicate that an ongoing action is not happening at the moment."
+        },
+        {
+            "questionNo": "Q31.",
+            "question": "We __________ (not / expect) such a long delay when we planned our trip.",
+            "options": [
+                "were not expecting",
+                "did not expect",
+                "are not expecting",
+                "have not expected"
+            ],
+            "correct": 0,
+            "explanation": "For past continuous negative sentences, use 'were not' + present participle to express that an action was not ongoing at a certain past time."
+        }
+    ]
